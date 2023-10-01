@@ -1,0 +1,21 @@
+Documentation for eTube Rotator:
+
+In this file, you will find all of the necessary tools needed to replicate the Eppendorf Tube Spinner we used in a few of our experiments. 
+
+Included in this folder are:
+1. a video of the final product at work
+2. the full code used to program the arduino
+3. the circuit schematic for the hardware
+4. the stl files for the 3D printed parts
+5. photos (labeled) of the hardware 
+
+
+To complete this project you will need: 
+- Arduino Uno board x1
+- L298N Motor Driver (H-Bridge) x1
+- DC Motor 1x
+- 3D Printer with filament (we used PLA) 
+- Soldering iron + Solder
+- Wire Stripper (or scissors)
+- Wire 
+- Power Source that can be split in two 
